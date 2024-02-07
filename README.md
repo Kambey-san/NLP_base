@@ -1,1 +1,1 @@
-min branch
+Курсовой проект telegram_chat-bot
